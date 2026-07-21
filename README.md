@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sarah 👋
 
-<!--
-**Sarah-Bird/Sarah-Bird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a statistics student interested in using analytics to draw meaningful conclusions about the world. I am open to exploring any domain where modeling can explain answers to questions that are otherwise unclear. I have experience in projects related to sports and health, and am looking forward to future projects.
 
-Here are some ideas to get you started:
+### 🏒 Currently working on
+**[Arizona to Utah: A Neural Network Analysis of Former Coyotes Player Performance](https://github.com/Sarah-Bird/arizona-utah-player-performance)**
+A single-layer neural network (built from scratch in R) modeling expected NHL player performance to test whether relocation from Arizona to Utah drove real performance gains, or just captured natural player development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Languages/Tools:** R, Python, SAS, statistical modeling, data visualization
+- **Methods:** neural networks (built from scratch), regression, residual analysis
+- **Interests:** sports analytics, health/outcomes analytics, policy research
+
+### 📫 Reach me
+- LinkedIn: www.linkedin.com/in/sarah--bird
+- Email: azbird.slkb@gmail.com
+
+---
+*More projects coming soon — currently exploring how this same modeling approach applies to health-related outcomes.*
